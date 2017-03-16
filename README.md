@@ -23,4 +23,4 @@ To Perform the analysis:
 
 Run "spiec-easi_analysis.R" and then run "data_postprocessing.py".
 
-The association between OTUs and number of associations were stored in "network_Order.csv" and "num_edge_Order.csv", respectively.
+The association between OTUs and number of associations were stored in "network_Order.csv" and "num_edge_Order.csv", respectively. These data could be further plotted using [Cytoscape](http://www.cytoscape.org/).
