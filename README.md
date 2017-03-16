@@ -10,7 +10,7 @@ This is a R and Python script to analyze the association between different micro
 
 Sparse InversE Covariance estimation for Ecological Association and Statistical Inference (SPIEC-EASI) is a statistical inference method developed by Richard Bonneau at NYU school of medicine. This package will be useful to anybody who wants to infer graphical models for all sorts of compositional data, though primarily intended for microbiome relative abundance data (generated from 16S amplicon sequence data). It also includes a generator for [overdispersed, zero inflated] multivariate, correlated count data. Please see the paper published in [PLoS Comp Bio](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226). It has been employed to analyze the relationships between different microbiome taxonomies. One of such analysis was published in [Science](http://science.sciencemag.org/content/early/2016/04/13/science.aaf3229).
 
-Here I am trying to reproduce such analysis on several datasets including American Gut Project dataset and Human Microbiome Project dataset. The analysis protocol was the same to the one used for the [Science](http://science.sciencemag.org/content/early/2016/04/13/science.aaf3229) paper with slight modifications.
+Here I was trying to reproduce such analysis on several datasets including American Gut Project dataset and Human Microbiome Project dataset. The analysis protocol was the same to the one used for the [Science](http://science.sciencemag.org/content/early/2016/04/13/science.aaf3229) paper with slight modifications.
 
 ## Run the Analysis
 
