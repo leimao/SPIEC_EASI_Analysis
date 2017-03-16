@@ -14,9 +14,8 @@ Here I am trying to reproduce such analysis on several datasets including Americ
 
 ## Run the Analysis
 
-AG: American Gut Project
-
-HMP: Human Microbiome Project
+* AG: American Gut Project
+* HMP: Human Microbiome Project
 
 The input of the analysis was ".biom" files.
 
