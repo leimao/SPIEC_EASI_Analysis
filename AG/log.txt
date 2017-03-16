@@ -1,0 +1,10 @@
+Microbiome Data
+AG_100nt.biom
+Filter Parameter
+0.2
+Number of Samples
+4827
+Number of OTUs Before Filtering
+22742
+Number of OTUs After Filtering
+289

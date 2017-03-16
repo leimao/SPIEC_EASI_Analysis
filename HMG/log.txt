@@ -1,0 +1,10 @@
+Microbiome Data
+HMPv35_100nt.biom
+Filter Parameter
+0.2
+Number of Samples
+6456
+Number of OTUs Before Filtering
+7901
+Number of OTUs After Filtering
+78
