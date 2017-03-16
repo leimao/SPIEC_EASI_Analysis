@@ -1,6 +1,7 @@
 # SPIEC_EASI_Analysis
 
 Author: Lei Mao
+
 Date: 3/16/2017
 
 ## Introduction
@@ -21,6 +22,6 @@ The input of the analysis was ".biom" files.
 
 To Perform the analysis:
 
-Run "spiec-easi_analysis.R" and then "run data_postprocessing.py".
+Run "spiec-easi_analysis.R" and then run "data_postprocessing.py".
 
 The association between OTUs and number of associations were stored in "network_Order.csv" and "num_edge_Order.csv", respectively.
